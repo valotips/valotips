@@ -1,4 +1,4 @@
-# source: https://github.com/marketplace/actions/jekyll-deploy-action
+# source : https://github.com/marketplace/actions/jekyll-deploy-action
 name: Build and Deploy to Github Pages
 
 on:
