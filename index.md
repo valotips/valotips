@@ -8,3 +8,8 @@ permalink: /
 Welcome to My Home Page
 
 This will contain posts about Valorant
+
+test video
+<video src="https://github.com/valotips/valotips.github.io/blob/main/valo-spikerush-strangeplace.mp4" controls="controls" style="max-width: 730px;">
+</video>
+
